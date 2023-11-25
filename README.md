@@ -21,7 +21,7 @@
 
 ### Ответ 1
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-12-01/blob/main/img/schema_bd.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/hw-12-01/blob/main/img/bd_red02.png)
 
 База данных может состоять из следующих таблиц:
 
